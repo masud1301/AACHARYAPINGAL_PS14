@@ -1,0 +1,31 @@
+issue_text,category,priority
+Wifi not working in hostel,Network,High
+Internet very slow during online classes,Network,Medium
+Network down since morning in lab,Network,High
+LAN cable not working in computer lab,Network,Medium
+Zoom meeting disconnecting repeatedly,Network,Medium
+Projector not working in classroom,Facilities,High
+AC not working in seminar hall,Facilities,Medium
+Fan broken in classroom,Facilities,Low
+Water cooler not working near canteen,Facilities,High
+Lights not working in corridor,Facilities,Low
+College website not opening,IT,High
+Student portal showing error,IT,High
+Password reset email not received,IT,Medium
+Library system very slow,IT,Medium
+Software not installed in lab PC,IT,Low
+Fee receipt not generated,Admin,Medium
+Scholarship status not updated,Admin,Medium
+Office delay in issuing bonafide certificate,Admin,Low
+Exam form submission problem,Admin,High
+Attendance not updated in portal,Admin,Medium
+Printer not working in office,Facilities,Medium
+Internet speed very slow in library,Network,Medium
+Login issue in LMS portal,IT,High
+Payment gateway failed during fee payment,Admin,High
+Camera not working in classroom,Facilities,Medium
+Wifi signal weak in hostel room,Network,Low
+Server maintenance causing downtime,IT,High
+Room cleaning not done in hostel,Facilities,Low
+Staff approval taking too long,Admin,Low
+VPN not connecting for college access,Network,High
