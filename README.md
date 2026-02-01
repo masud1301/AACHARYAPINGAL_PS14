@@ -36,6 +36,18 @@ The ML model is trained using Edge Impulse and deployed on an Android phone as a
 - Languages: JavaScript
 - Tools: VS Code, GitHub
 
+## Project Structure
+
+react-state/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── api/
+│   └── App.jsx
+├── index.html
+└── README.md
+
+
 ## How to Run the Web Application
 
 1. Clone the repository:
